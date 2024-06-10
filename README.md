@@ -1,10 +1,5 @@
-- 👋 Hello, I'm Hamza Massar.
-- 👀 I have a keen interest in data sciences, machine learning, and artificial intelligence.
-- 🌱 Currently expanding my knowledge in software development, AI, and signal/image processing.
-- 💞️ Open to collaborating on innovative projects.
-- 📫 Reach out to me at hamzamassar10@gmail.com.
+👋 Hello, I'm Hamza Massar.
 
-<!---
-hamzamssr10/hamzamssr10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests: I'm passionate about data science, machine learning, and artificial intelligence. I thrive on leveraging these technologies to solve complex problems and create innovative solutions.
+🌱 Currently Learning: I'm expanding my expertise in software development, AI, and signal/image processing. My focus includes enhancing my skills in deep learning, computer vision, and advanced data analytics.
+📫 Contact: You can reach me at hamzamassar10@gmail.com. Let's connect and explore how we can work together.
